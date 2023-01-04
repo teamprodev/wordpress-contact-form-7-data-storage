@@ -1,0 +1,312 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi Form Data Storage\n"
+"POT-Creation-Date: 2017-08-21 09:20+0200\n"
+"PO-Revision-Date: 2017-08-18 14:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: QuanticaLabs <quanticalabs@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class/MFDS.Export.class.php:29 ../class/MFDS.Plugin.class.php:385
+#: ../template/admin/meta_box_general.php:82
+msgid "Sender"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:49 ../template/admin/meta_box_general.php:86
+msgid "Recipients"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:68 ../template/admin/meta_box_general.php:90
+msgid "Carbon copy (CC)"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:87
+msgid "Blind carbon copy (BCC)"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:106 ../template/admin/meta_box_general.php:98
+msgid "Reply to"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:125 ../class/MFDS.Plugin.class.php:384
+#: ../template/admin/meta_box_general.php:102
+msgid "Subject"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:145
+msgid "Body"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:165
+msgid "User IP"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:185
+msgid "User agent"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:205
+msgid "Referrer post name"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:225 ../class/MFDS.Plugin.class.php:386
+#: ../template/admin/meta_box_general.php:61
+msgid "Form name"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:245 ../template/admin/meta_box_general.php:36
+msgid "Form data"
+msgstr ""
+
+#: ../class/MFDS.Export.class.php:263 ../template/admin/meta_box_general.php:49
+msgid "Form files"
+msgstr ""
+
+#: ../class/MFDS.Extension.class.php:76 ../class/MFDS.Plugin.class.php:285
+#: ../class/MFDS.Plugin.class.php:305
+msgid "This field conatins invalid value."
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:640 ../class/MFDS.FormEntry.class.php:641
+#: ../template/admin/option.php:25
+msgid "Multi Form Data Storage"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:642
+msgid "Add New"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:643 ../class/MFDS.FormEntry.class.php:645
+msgid "View Entry"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:644
+msgid "All Entries"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:646
+msgid "Search Entries"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:647
+msgid "No Entries Found"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:648
+msgid "No Entries Found in Trash"
+msgstr ""
+
+#: ../class/MFDS.FormEntry.class.php:650 ../class/MFDS.Plugin.class.php:251
+msgid "MF Data Storage"
+msgstr ""
+
+#: ../class/MFDS.Notice.class.php:46
+msgid "Error"
+msgstr ""
+
+#: ../class/MFDS.Notice.class.php:47
+msgid "Changes can not be saved."
+msgstr ""
+
+#: ../class/MFDS.Notice.class.php:51
+msgid "Success"
+msgstr ""
+
+#: ../class/MFDS.Notice.class.php:52
+msgid "All changes have been saved."
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:299
+msgid "This field cannot be empty."
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:336 ../template/admin/meta_box_general.php:16
+msgid "General"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:387
+msgid "Date"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:427
+msgid "Preview"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:477 ../template/admin/option.php:47
+msgid "Export"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:479
+msgid "[Select export option]"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:480
+msgid "Export to XML"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:481
+msgid "Export to CSV (tab)"
+msgstr ""
+
+#: ../class/MFDS.Plugin.class.php:482
+msgid "Export to CSV (semicolon)"
+msgstr ""
+
+#: ../extension/caldera-form/option.php:3
+#: ../extension/caldera-form/option.php:7
+#: ../extension/contact-form-7/option.php:3
+#: ../extension/contact-form-7/option.php:7
+#: ../extension/fast-secure-contact-form/option.php:3
+#: ../extension/fast-secure-contact-form/option.php:7
+#: ../template/admin/option_export_csv.php:10
+#: ../template/admin/option_export_csv.php:28
+#: ../template/admin/option_export_xml.php:18
+msgid "Enable"
+msgstr ""
+
+#: ../extension/caldera-form/option.php:4
+#: ../extension/contact-form-7/option.php:4
+#: ../extension/fast-secure-contact-form/option.php:4
+msgid "Enable or disable this extension."
+msgstr ""
+
+#: ../extension/caldera-form/option.php:9
+#: ../extension/contact-form-7/option.php:9
+#: ../extension/fast-secure-contact-form/option.php:9
+#: ../template/admin/option_export_csv.php:12
+#: ../template/admin/option_export_csv.php:30
+#: ../template/admin/option_export_xml.php:20
+msgid "Disable"
+msgstr ""
+
+#: ../template/admin/meta_box_general.php:24
+#: ../template/admin/meta_box_general.php:106
+msgid "Message"
+msgstr ""
+
+#: ../template/admin/meta_box_general.php:65
+msgid "Referrer post"
+msgstr ""
+
+#: ../template/admin/meta_box_general.php:69
+msgid "User IP address"
+msgstr ""
+
+#: ../template/admin/meta_box_general.php:73
+msgid "User agent name"
+msgstr ""
+
+#: ../template/admin/option.php:15
+msgid "QuanticaLabs"
+msgstr ""
+
+#: ../template/admin/option.php:16
+msgid "Plugin Options"
+msgstr ""
+
+#: ../template/admin/option.php:28
+#, php-format
+msgid "WordPress Plugin ver. %s"
+msgstr ""
+
+#: ../template/admin/option.php:31
+msgid "Support Forum"
+msgstr ""
+
+#: ../template/admin/option.php:32
+msgid "Plugin site"
+msgstr ""
+
+#: ../template/admin/option.php:49
+msgid "CSV"
+msgstr ""
+
+#: ../template/admin/option.php:50
+msgid "XML"
+msgstr ""
+
+#: ../template/admin/option.php:54
+msgid "Extension"
+msgstr ""
+
+#: ../template/admin/option.php:94
+msgid "Envato"
+msgstr ""
+
+#: ../template/admin/option.php:95
+msgid "Facebook"
+msgstr ""
+
+#: ../template/admin/option.php:96
+msgid "Twitter"
+msgstr ""
+
+#: ../template/admin/option.php:97
+msgid "Tumblr"
+msgstr ""
+
+#: ../template/admin/option.php:103
+msgid "Save changes"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:6
+msgid "Header visibility"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:7
+msgid "Enable or disable visibility of header in exported CSV file."
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:16
+msgid "Column visibility"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:17
+msgid "Enable or disable visibility of column in exported CSV file."
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:38
+msgid "Column name"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:39
+msgid ""
+"Enter name of the column in header of exported CSV file. Name cannot be "
+"empty."
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:55
+msgid "Form fields mapper"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:57
+msgid ""
+"List of generated (by plugin) and translated (by user) names of fields "
+"(columns) from exported CSV file separated by semicolon. E.g:"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:58
+msgid "[contact_form_7][1][field][your-message];Message"
+msgstr ""
+
+#: ../template/admin/option_export_csv.php:59
+msgid "[contact_form_7][2][file][your-file];Attached file"
+msgstr ""
+
+#: ../template/admin/option_export_xml.php:6
+msgid "Data visibility"
+msgstr ""
+
+#: ../template/admin/option_export_xml.php:7
+msgid "Enable or disable visibility of data in exported XML file."
+msgstr ""
